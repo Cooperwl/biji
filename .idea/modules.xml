@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/biji-common/biji-common.iml" filepath="$PROJECT_DIR$/biji-common/biji-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biji-metadata/biji-metadata.iml" filepath="$PROJECT_DIR$/biji-metadata/biji-metadata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biji-metadata-api/biji-metadata-api.iml" filepath="$PROJECT_DIR$/biji-metadata-api/biji-metadata-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biji-root/biji-root.iml" filepath="$PROJECT_DIR$/biji-root/biji-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biji-web/biji-web.iml" filepath="$PROJECT_DIR$/biji-web/biji-web.iml" />
+    </modules>
+  </component>
+</project>
